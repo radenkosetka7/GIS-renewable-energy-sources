@@ -1,1 +1,3 @@
-# er-backend
+# GIS application - renewable energy sources
+
+Backend application
