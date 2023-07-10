@@ -1,0 +1,15 @@
+##############################################################
+#            Django config environment variables             #
+##############################################################
+
+SECRET_KEY = t)i_!8vauc@fk_4)s=3u#5rd+!y(hcf@4@k2jvc%=@jq%qk63l
+# True values are 'y', 'yes', 'true', 'on' and '1'; false values are 'n', 'no', 'false', 'off' and '0'.
+# This variable is case insensitive.
+DEBUG = true
+# Allowed hosts variable is a comma separated list of allowed hosts. Example: localhost, 127.0.0.1, 0.0.0.0
+ALLOWED_HOSTS = *
+
+DB_NAME = database_name
+DB_USER = dbuser
+DB_PASS = dbuser123
+DB_HOST = 127.0.0.1

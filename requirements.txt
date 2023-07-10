@@ -1,0 +1,11 @@
+python-dotenv~=0.20
+psycopg2~=2.9
+
+Django~=4.1
+django-cors-headers~=3.13
+djangorestframework-simplejwt==5.2.2
+djangorestframework~=3.13
+djangorestframework-gis=1.0
+#GDAL>=3.2.0,<4.0.0
+django-filter=23.1
+flake8~=5.0

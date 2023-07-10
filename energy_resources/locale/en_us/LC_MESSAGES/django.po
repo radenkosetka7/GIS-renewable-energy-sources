@@ -1,0 +1,161 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-04-20 23:10+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\choices\models.py:8
+msgid "Republic of Srpska"
+msgstr "Republic of Srpska"
+
+#: .\choices\models.py:9
+msgid "Federation of Bosnia and Herzegovina"
+msgstr "Federation of Bosnia and Herzegovina"
+
+#: .\choices\models.py:10
+msgid "District Brcko"
+msgstr "District Brcko"
+
+#: .\choices\models.py:14
+msgid "Una-Sana canton"
+msgstr "Una-Sana canton"
+
+#: .\choices\models.py:15
+msgid "Posavina canton"
+msgstr "Posavina canton"
+
+#: .\choices\models.py:16
+msgid "Tuzla canton"
+msgstr "Tuzla canton"
+
+#: .\choices\models.py:17
+msgid "Zenica-Doboj canton"
+msgstr "Zenica-Doboj canton"
+
+#: .\choices\models.py:18
+msgid "Bosnian-Podrinje canton of Goražde"
+msgstr "Bosnian-Podrinje canton of Goražde"
+
+#: .\choices\models.py:19
+msgid "Central Bosnian Canton"
+msgstr "Central Bosnian Canton"
+
+#: .\choices\models.py:20
+msgid "Herzegovina-Neretva Canton"
+msgstr "Herzegovina-Neretva Canton"
+
+#: .\choices\models.py:21
+msgid "West Herzegovina Canton"
+msgstr "West Herzegovina Canton"
+
+#: .\choices\models.py:22
+msgid "Sarajevo Canton"
+msgstr "Sarajevo Canton"
+
+#: .\choices\models.py:23
+msgid "Canton 10"
+msgstr "Canton 10"
+
+#: .\choices\models.py:27
+msgid "Urban"
+msgstr "Urban"
+
+#: .\choices\models.py:28
+msgid "Rural"
+msgstr "Rural"
+
+#: .\energy_resources\settings.py:158
+msgid "English"
+msgstr "English"
+
+#: .\energy_resources\settings.py:159
+msgid "Serbian"
+msgstr "Serbian"
+
+#: .\energy_resources\settings.py:160
+msgid "Bosnian"
+msgstr "Bosnian"
+
+#: .\energy_resources\settings.py:161
+msgid "Croatian"
+msgstr "Croatian"
+
+#: .\resources\file_methods.py:23
+msgid "Shapefile does not contain required components."
+msgstr "Shapefile does not contain required components."
+
+#: .\resources\file_methods.py:37
+msgid "It is impossible to find shapefile (.shp)."
+msgstr "It is impossible to find shapefile (.shp)."
+
+#: .\resources\serializer.py:9
+msgid ""
+"Field canton is mandatory for the entity Federation of Bosnia and "
+"Herzegovina."
+msgstr ""
+"Field canton is mandatory for the entity Federation of Bosnia and "
+"Herzegovina."
+
+#: .\resources\serializer.py:10
+msgid ""
+"Field canton can not be selected for Republic of Serbs or District Brcko."
+msgstr ""
+"Field canton can not be selected for Republic of Serbs or District Brcko."
+
+#: .\resources\serializer.py:11
+msgid ""
+"It is not possible to change entity field, canton field is already selected."
+msgstr ""
+"It is not possible to change entity field, canton field is already selected."
+
+#: .\users\serializer.py:20
+msgid "Wrong passwords!"
+msgstr "Wrong passwords!"
+
+#: .\users\serializer.py:45
+msgid "Passwords didn't match!"
+msgstr "Passwords didn't match!"
+
+#: .\users\serializer.py:46
+msgid ""
+"Please enter different new password. This action does not make any changes."
+msgstr ""
+"Please enter different new password. This action does not make any changes."
+
+#: .\users\serializer.py:56
+msgid "Wrong old password!"
+msgstr "Wrong old password!"
+
+#~ msgid "MGI 1901 / Balkans zone 6"
+#~ msgstr "MGI 1901 / Balkans zone 6"
+
+#~ msgid "MGI 1901 / Balkans zone 7"
+#~ msgstr "MGI 1901 / Balkans zone 7"
+
+#~ msgid "MGI 1901"
+#~ msgstr "MGI 1901"
+
+#~ msgid "MGI 1901 / Balkans zone 5"
+#~ msgstr "MGI 1901 / Balkans zone 5"
+
+#~ msgid "Import shapefile is required"
+#~ msgstr "Import shapefile is required"
+
+#~ msgid "Import SRID is required"
+#~ msgstr "Import SRID is required"
+
+#~ msgid "Uploaded file is not zip"
+#~ msgstr "Uploaded file is not zip"

@@ -1,0 +1,161 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-04-20 23:10+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+
+#: .\choices\models.py:8
+msgid "Republic of Srpska"
+msgstr "Republika Srpska"
+
+#: .\choices\models.py:9
+#, fuzzy
+#| msgid ""
+#| "Field canton is mandatory for the entity Federation of Bosnia and "
+#| "Herzegovina."
+msgid "Federation of Bosnia and Herzegovina"
+msgstr "Polje kanton je obavezno za entitet Federacija Bosne i Hercegovine."
+
+#: .\choices\models.py:10
+msgid "District Brcko"
+msgstr "Brčko Distrikt"
+
+#: .\choices\models.py:14
+msgid "Una-Sana canton"
+msgstr "Unsko-sanski kanton"
+
+#: .\choices\models.py:15
+msgid "Posavina canton"
+msgstr "Posavski kanton"
+
+#: .\choices\models.py:16
+msgid "Tuzla canton"
+msgstr "Tuzlanski kanton"
+
+#: .\choices\models.py:17
+msgid "Zenica-Doboj canton"
+msgstr "Zeničko-dobojski kanton"
+
+#: .\choices\models.py:18
+msgid "Bosnian-Podrinje canton of Goražde"
+msgstr "Bosansko-podrinjski kanton Goražde"
+
+#: .\choices\models.py:19
+msgid "Central Bosnian Canton"
+msgstr "Srednjobosanski kanton"
+
+#: .\choices\models.py:20
+msgid "Herzegovina-Neretva Canton"
+msgstr "Hercegovačko-neretvanski kanton"
+
+#: .\choices\models.py:21
+msgid "West Herzegovina Canton"
+msgstr "Zapadnohercegovački kanton"
+
+#: .\choices\models.py:22
+msgid "Sarajevo Canton"
+msgstr "Kanton Sarajevo"
+
+#: .\choices\models.py:23
+msgid "Canton 10"
+msgstr "Kanton 10"
+
+#: .\choices\models.py:27
+msgid "Urban"
+msgstr "Urbana"
+
+#: .\choices\models.py:28
+msgid "Rural"
+msgstr "Ruralna"
+
+#: .\energy_resources\settings.py:158
+msgid "English"
+msgstr "Engleski"
+
+#: .\energy_resources\settings.py:159
+msgid "Serbian"
+msgstr "Srpski"
+
+#: .\energy_resources\settings.py:160
+msgid "Bosnian"
+msgstr "Bosanski"
+
+#: .\energy_resources\settings.py:161
+msgid "Croatian"
+msgstr "Hrvatski"
+
+#: .\resources\file_methods.py:23
+msgid "Shapefile does not contain required components."
+msgstr "Shapefile ne sadrži obavezne komponente."
+
+#: .\resources\file_methods.py:37
+msgid "It is impossible to find shapefile (.shp)."
+msgstr "Nije moguće pronaći shapefile (.shp)"
+
+#: .\resources\serializer.py:9
+msgid ""
+"Field canton is mandatory for the entity Federation of Bosnia and "
+"Herzegovina."
+msgstr "Polje kanton je obavezno za entitet Federacija Bosne i Hercegovine."
+
+#: .\resources\serializer.py:10
+msgid ""
+"Field canton can not be selected for Republic of Serbs or District Brcko."
+msgstr ""
+"Polje kanton ne može biti izabrano za Republiku Srpsku ili Brčko Distrikt."
+
+#: .\resources\serializer.py:11
+msgid ""
+"It is not possible to change entity field, canton field is already selected."
+msgstr "Nije moguće promijeniti entitet, polje kanton je već izabrano."
+
+#: .\users\serializer.py:20
+msgid "Wrong passwords!"
+msgstr "Pogrešne lozinke!"
+
+#: .\users\serializer.py:45
+msgid "Passwords didn't match!"
+msgstr "Lozinke se ne podudaraju!"
+
+#: .\users\serializer.py:46
+msgid ""
+"Please enter different new password. This action does not make any changes."
+msgstr ""
+"Nova lozinka je ista kao stara. Ne pravite nikakvu izmjenu na ovaj način."
+
+#: .\users\serializer.py:56
+msgid "Wrong old password!"
+msgstr "Pogrešna stara lozinka!"
+
+#~ msgid "MGI 1901 / Balkans zone 7"
+#~ msgstr "MGI 1901 / Balkanska zona 7"
+
+#~ msgid "MGI 1901"
+#~ msgstr "MGI 1901"
+
+#~ msgid "MGI 1901 / Balkans zone 5"
+#~ msgstr "MGI 1901 / Balkanska zona 5"
+
+#~ msgid "Import shapefile is required"
+#~ msgstr "Odabir shapefile-a je obavezan."
+
+#~ msgid "Import SRID is required"
+#~ msgstr "Osdabir SRID je obavezan."
+
+#~ msgid "Uploaded file is not zip"
+#~ msgstr "Priloženi file nije zip."
